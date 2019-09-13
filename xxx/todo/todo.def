@@ -1,0 +1,25 @@
+// Cinema
+
+tilefromtexture 1280 { file "xxx/1280.png" xoffset 0 yoffset 0 ifcrc 1235962612 }
+tilefromtexture 1281 { file "xxx/1281.png" xoffset 0 yoffset 0 ifcrc 207133979 }
+tilefromtexture 1282 { file "xxx/1282.png" xoffset 0 yoffset 0 ifcrc -338799310 }
+tilefromtexture 1283 { file "xxx/1283.png" xoffset 0 yoffset 0 ifcrc -965525892 }
+tilefromtexture 1284 { file "xxx/1284.png" xoffset 0 yoffset 0 ifcrc -1878507859 }
+tilefromtexture 1285 { file "xxx/1285.png" xoffset 0 yoffset 0 ifcrc 1775744193 }
+tilefromtexture 1286 { file "xxx/1286.png" xoffset 0 yoffset 0 ifcrc 1534214268 }
+tilefromtexture 1287 { file "xxx/1287.png" xoffset 0 yoffset 0 ifcrc -1765422019 }
+tilefromtexture 1288 { file "xxx/1288.png" xoffset 0 yoffset 0 ifcrc -530232379 }
+
+
+// Screen
+tilefromtexture 3330 { file "xxx/3330.png" xoffset 0 yoffset 0 ifcrc 509269882 }
+tilefromtexture 3331 { file "xxx/3331.png" xoffset 0 yoffset 0 ifcrc -1833340334 }
+tilefromtexture 3332 { file "xxx/3332.png" xoffset 0 yoffset 0 ifcrc -1312437257 }
+tilefromtexture 3333 { file "xxx/3333.png" xoffset 0 yoffset 0 ifcrc 1534778178 }
+tilefromtexture 3334 { file "xxx/3334.png" xoffset 0 yoffset 0 ifcrc 1791758621 }
+tilefromtexture 3335 { file "xxx/3335.png" xoffset 0 yoffset 0 ifcrc -1236507056 }
+tilefromtexture 3336 { file "xxx/3336.png" xoffset 0 yoffset 0 ifcrc -1505526522 }
+tilefromtexture 3337 { file "xxx/3337.png" xoffset 0 yoffset 0 ifcrc 1307118857 }
+tilefromtexture 3338 { file "xxx/3338.png" xoffset 0 yoffset 0 ifcrc 1691504475 }
+tilefromtexture 3339 { file "xxx/3339.png" xoffset 0 yoffset 0 ifcrc -285630811 }
+tilefromtexture 3340 { file "xxx/3340.png" xoffset 0 yoffset 0 ifcrc 581792060 }
