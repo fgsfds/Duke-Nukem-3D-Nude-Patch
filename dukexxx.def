@@ -1,0 +1,223 @@
+echo "Duke Nukem 3D Nude Patch v0.9"
+
+tilefromtexture 568 { file "xxx/568.png" xoffset 0 yoffset 0 ifcrc -1065649055 }
+tilefromtexture 577 { file "xxx/577.png" xoffset 0 yoffset 0 ifcrc -406725463 }
+tilefromtexture 603 { file "xxx/603.png" xoffset 0 yoffset -85 ifcrc 2033971612 }
+tilefromtexture 766 { file "xxx/766.png" xoffset 0 yoffset 0 ifcrc 365003540 }
+tilefromtexture 869 { file "xxx/869.png" xoffset 0 yoffset 0 ifcrc 2514069626 }
+tilefromtexture 963 { file "xxx/963.png" xoffset 0 yoffset 0 ifcrc -968642346 }
+tilefromtexture 964 { file "xxx/964.png" xoffset 0 yoffset 0 ifcrc -1517118080 }
+tilefromtexture 965 { file "xxx/965.png" xoffset 0 yoffset 0 ifcrc -867632416 }
+tilefromtexture 1054 { file "xxx/1054.png" xoffset 0 yoffset 0 ifcrc -1314137471 }
+
+
+// Stripper video
+tilefromtexture 1289 { file "xxx/1289.png" xoffset 0 yoffset 0 ifcrc -974172315 }
+tilefromtexture 1290 { file "xxx/1290.png" xoffset 0 yoffset 0 ifcrc -202684957 }
+tilefromtexture 1291 { file "xxx/1291.png" xoffset 0 yoffset 0 ifcrc 1714880314 }
+tilefromtexture 1292 { file "xxx/1292.png" xoffset 0 yoffset 0 ifcrc -1426508468 }
+
+
+// Cocoon
+tilefromtexture 1294 { file "xxx/1294.png" xoffset 0 yoffset 0 ifcrc -1423038526 }
+tilefromtexture 1295 { file "xxx/1295.png" xoffset 0 yoffset 0 ifcrc 1148194786 }
+tilefromtexture 1296 { file "xxx/1296.png" xoffset 0 yoffset 0 ifcrc 396441119 }
+
+
+// Stripper
+tilefromtexture 1312 { file "xxx/1312.png" xoffset -2 yoffset 0 ifcrc -1304482712 }
+tilefromtexture 1313 { file "xxx/1313.png" xoffset -2 yoffset 0 ifcrc 245346451 }
+tilefromtexture 1314 { file "xxx/1314.png" xoffset -2 yoffset 0 ifcrc 1099768735 }
+tilefromtexture 1315 { file "xxx/1315.png" xoffset -2 yoffset 0 ifcrc -349476730 }
+tilefromtexture 1316 { file "xxx/1316.png" xoffset -2 yoffset 0 ifcrc 775053848 }
+
+
+// Pole Dancer
+tilefromtexture 1317 { file "xxx/1317.png" xoffset 13 yoffset 0 ifcrc 1764930214 }
+tilefromtexture 1318 { file "xxx/1318.png" xoffset 15 yoffset 0 ifcrc 1328702999 }
+tilefromtexture 1319 { file "xxx/1319.png" xoffset 15 yoffset 0 ifcrc -1352616058 }
+tilefromtexture 1320 { file "xxx/1320.png" xoffset 15 yoffset 0 ifcrc -1108825444 }
+
+
+// Woman
+tilefromtexture 1321 { file "xxx/1321.png" xoffset 0 yoffset 0 ifcrc -938823841 }
+tilefromtexture 1322 { file "xxx/1322.png" xoffset 0 yoffset 0 ifcrc 1593222310 }
+
+
+tilefromtexture 1323 { file "xxx/1323.png" xoffset 9 yoffset 1 ifcrc -110231081 }
+
+
+// Dancer
+tilefromtexture 1325 { file "xxx/1325.png" xoffset 0 yoffset 0 ifcrc -174444635 }
+tilefromtexture 1326 { file "xxx/1326.png" xoffset 6 yoffset 0 ifcrc 1584459323 }
+tilefromtexture 1327 { file "xxx/1327.png" xoffset 5 yoffset 0 ifcrc -662377067 }
+tilefromtexture 1328 { file "xxx/1328.png" xoffset 10 yoffset 0 ifcrc -999738188 }
+tilefromtexture 1329 { file "xxx/1329.png" xoffset 1 yoffset 0 ifcrc -1746694011 }
+tilefromtexture 1330 { file "xxx/1330.png" xoffset -3 yoffset 0 ifcrc 370904724 }
+
+
+// Stripper2
+tilefromtexture 1331 { file "xxx/1331.png" xoffset 0 yoffset 0 ifcrc 671888653 }
+tilefromtexture 1332 { file "xxx/1332.png" xoffset -1 yoffset 0 ifcrc 27816610 }
+tilefromtexture 1333 { file "xxx/1333.png" xoffset 0 yoffset 0 ifcrc -1594900591 }
+
+
+tilefromtexture 1334 { file "xxx/1334.png" xoffset 0 yoffset 30 ifcrc 647782463 }
+tilefromtexture 1336 { file "xxx/1336.png" xoffset -8 yoffset 1 ifcrc 808293132 }
+
+
+// Exotic Dancer
+tilefromtexture 1395 { file "xxx/1395.png" xoffset 0 yoffset 0 ifcrc -950070847 }
+tilefromtexture 1396 { file "xxx/1396.png" xoffset 0 yoffset 0 ifcrc 1829748260 }
+tilefromtexture 1397 { file "xxx/1397.png" xoffset 0 yoffset 0 ifcrc -1908883702 }
+tilefromtexture 1398 { file "xxx/1398.png" xoffset -1 yoffset 0 ifcrc -916295220 }
+
+
+// E2 Ending
+tilefromtexture 3292 { file "xxx/3292.png" xoffset 0 yoffset 0 ifcrc 308716880 }
+
+
+// Lounge
+tilefromtexture 3421 { file "xxx/3421.png" xoffset 0 yoffset 0 ifcrc 1381491774 }
+tilefromtexture 3422 { file "xxx/3422.png" xoffset 0 yoffset 0 ifcrc -835593155 }
+tilefromtexture 3423 { file "xxx/3423.png" xoffset 0 yoffset 0 ifcrc -1192371466 }
+
+
+// Cheerleader
+tilefromtexture 3450 { file "xxx/3450.png" xoffset 0 yoffset 0 ifcrc 90458477 }
+tilefromtexture 3451 { file "xxx/3451.png" xoffset 0 yoffset 0 ifcrc 1644567303 }
+tilefromtexture 3452 { file "xxx/3452.png" xoffset 0 yoffset 0 ifcrc 200278763 }
+tilefromtexture 3453 { file "xxx/3453.png" xoffset 0 yoffset 0 ifcrc -639959650 }
+tilefromtexture 3454 { file "xxx/3454.png" xoffset 0 yoffset 0 ifcrc -1505209778 }
+tilefromtexture 3455 { file "xxx/3455.png" xoffset 0 yoffset 0 ifcrc -902063618 }
+
+
+tilefromtexture 4423 { file "xxx/4423.png" xoffset 0 yoffset 0 ifcrc 178179554 }
+tilefromtexture 4498 { file "xxx/4498.png" xoffset 0 yoffset 0 ifcrc 1282088160 }
+
+
+// Pirate
+tilefromtexture 4510 { file "xxx/4510.png" xoffset 0 yoffset 0 ifcrc 240960643 }
+tilefromtexture 4511 { file "xxx/4511.png" xoffset 11 yoffset 0 ifcrc -1173028139 }
+
+
+// Pirates Fighting
+tilefromtexture 4512 { file "xxx/4512.png" xoffset 0 yoffset 0 ifcrc -823107558 }
+tilefromtexture 4513 { file "xxx/4513.png" xoffset -12 yoffset 0 ifcrc -1900944392 }
+
+
+// Pirate 2
+tilefromtexture 4514 { file "xxx/4514.png" xoffset 0 yoffset 0 ifcrc 1618171504 }
+tilefromtexture 4515 { file "xxx/4515.png" xoffset 9 yoffset 0 ifcrc -983972340 }
+
+
+// Terminator
+tilefromtexture 4516 { file "xxx/4516.png" xoffset 0 yoffset 0 ifcrc -107953021 }
+tilefromtexture 4517 { file "xxx/4517.png" xoffset 0 yoffset 0 ifcrc -1535123547 }
+
+
+// Sisters
+tilefromtexture 4864 { file "xxx/4864.png" xoffset 0 yoffset 0 ifcrc -792391869 }
+tilefromtexture 4865 { file "xxx/4865.png" xoffset 0 yoffset 0 ifcrc -75141145 }
+
+
+// Mistress
+tilefromtexture 4866 { file "xxx/4866.png" xoffset 0 yoffset 0 ifcrc 222423556 }
+tilefromtexture 4867 { file "xxx/4867.png" xoffset 0 yoffset 0 ifcrc 222423556 }
+tilefromtexture 4868 { file "xxx/4868.png" xoffset 1 yoffset 0 ifcrc -44008817 }
+tilefromtexture 4869 { file "xxx/4869.png" xoffset -13 yoffset 0 ifcrc -39955910 }
+tilefromtexture 4870 { file "xxx/4870.png" xoffset -1 yoffset 0 ifcrc -143127098 }
+
+
+// Presenter
+tilefromtexture 4874 { file "xxx/4874.png" xoffset 0 yoffset 0 ifcrc 1952341601 }
+tilefromtexture 4875 { file "xxx/4875.png" xoffset 5 yoffset 0 ifcrc -582136876 }
+tilefromtexture 4876 { file "xxx/4876.png" xoffset 4 yoffset 0 ifcrc -1751412654 }
+
+
+tilefromtexture 4945 { file "xxx/4945.png" xoffset 0 yoffset 0 ifcrc 1136241158 }
+tilefromtexture 4955 { file "xxx/4955.png" xoffset 0 yoffset 0 ifcrc -180382413 }
+
+
+// Carib: dancing woman
+tilefromtexture 1321 { file "xxx/vaca/1321.png" xoffset 0 yoffset 0 ifcrc -257992875 }
+tilefromtexture 1322 { file "xxx/vaca/1322.png" xoffset 0 yoffset 0 ifcrc -1760025486 }
+
+
+// Carib: woman in chair
+tilefromtexture 3650 { file "xxx/vaca/3650.png" xoffset 0 yoffset -4 ifcrc -1211917370 }
+tilefromtexture 3651 { file "xxx/vaca/3651.png" xoffset 0 yoffset 0 ifcrc 898170802 }
+tilefromtexture 3652 { file "xxx/vaca/3652.png" xoffset 0 yoffset 0 ifcrc -162563674 }
+tilefromtexture 3653 { file "xxx/vaca/3653.png" xoffset 0 yoffset 0 ifcrc -1388178045 }
+tilefromtexture 3654 { file "xxx/vaca/3654.png" xoffset 0 yoffset 0 ifcrc 1792158629 }
+tilefromtexture 3655 { file "xxx/vaca/3655.png" xoffset 0 yoffset 0 ifcrc 152315695 }
+tilefromtexture 3656 { file "xxx/vaca/3656.png" xoffset 0 yoffset 1 ifcrc -1285392807 }
+tilefromtexture 3657 { file "xxx/vaca/3657.png" xoffset 0 yoffset 2 ifcrc -1375778738 }
+tilefromtexture 3658 { file "xxx/vaca/3658.png" xoffset 0 yoffset 2 ifcrc -1240124684 }
+
+
+// Carib: beach babe
+tilefromtexture 3670 { file "xxx/vaca/3670.png" xoffset 0 yoffset 0 ifcrc 849385248 }
+tilefromtexture 3671 { file "xxx/vaca/3671.png" xoffset 0 yoffset 0 ifcrc 380986183 }
+tilefromtexture 3672 { file "xxx/vaca/3672.png" xoffset 0 yoffset 0 ifcrc 1157575993 }
+tilefromtexture 3673 { file "xxx/vaca/3673.png" xoffset 0 yoffset 0 ifcrc 1606976482 }
+tilefromtexture 3674 { file "xxx/vaca/3674.png" xoffset 0 yoffset 0 ifcrc 200327392 }
+tilefromtexture 3675 { file "xxx/vaca/3675.png" xoffset 0 yoffset 0 ifcrc 412319946 }
+tilefromtexture 3676 { file "xxx/vaca/3676.png" xoffset 0 yoffset 0 ifcrc 406365821 }
+tilefromtexture 3677 { file "xxx/vaca/3677.png" xoffset 0 yoffset 0 ifcrc -1672950130 }
+tilefromtexture 3678 { file "xxx/vaca/3678.png" xoffset 0 yoffset 0 ifcrc 486114571 }
+tilefromtexture 3679 { file "xxx/vaca/3679.png" xoffset 0 yoffset 0 ifcrc 129139034 }
+tilefromtexture 3680 { file "xxx/vaca/3680.png" xoffset 0 yoffset 0 ifcrc 361264537 }
+tilefromtexture 3681 { file "xxx/vaca/3681.png" xoffset 0 yoffset 0 ifcrc -471014889 }
+tilefromtexture 3682 { file "xxx/vaca/3682.png" xoffset 0 yoffset 0 ifcrc 111731396 }
+tilefromtexture 3683 { file "xxx/vaca/3683.png" xoffset 0 yoffset 0 ifcrc -2095173519 }
+tilefromtexture 3684 { file "xxx/vaca/3684.png" xoffset 0 yoffset 0 ifcrc -147009480 }
+
+
+// Carib: poster
+tilefromtexture 3762 { file "xxx/vaca/3762.png" xoffset 0 yoffset -30 ifcrc 1262386908 }
+
+
+// DC: Ciberrella
+tilefromtexture 3737 { file "xxx/dc/3737.png" xoffset 0 yoffset 0 ifcrc -516645115 }
+
+
+// NW: Stripper
+tilefromtexture 1312 { file "xxx/nw/1312.png" xoffset -2 yoffset 0 ifcrc 1331786822 }
+tilefromtexture 1313 { file "xxx/nw/1313.png" xoffset -2 yoffset 0 ifcrc -331764909 }
+tilefromtexture 1314 { file "xxx/nw/1314.png" xoffset -2 yoffset 0 ifcrc -1089977781 }
+tilefromtexture 1315 { file "xxx/nw/1315.png" xoffset -2 yoffset 0 ifcrc -218178002 }
+tilefromtexture 1316 { file "xxx/nw/1316.png" xoffset -2 yoffset 0 ifcrc 307193077 }
+
+
+// NW: Pole Dancer
+tilefromtexture 1317 { file "xxx/nw/1317.png" xoffset 14 yoffset 0 ifcrc -1207714464 }
+tilefromtexture 1318 { file "xxx/nw/1318.png" xoffset 18 yoffset 0 ifcrc -798394960 }
+tilefromtexture 1319 { file "xxx/nw/1319.png" xoffset 18 yoffset 0 ifcrc -1355139739 }
+tilefromtexture 1320 { file "xxx/nw/1320.png" xoffset 17 yoffset 0 ifcrc -922458920 }
+
+
+// NW: Stripper2
+tilefromtexture 1331 { file "xxx/nw/1331.png" xoffset 0 yoffset 0 ifcrc 984323537 }
+tilefromtexture 1332 { file "xxx/nw/1332.png" xoffset -1 yoffset 0 ifcrc 135925684 }
+tilefromtexture 1333 { file "xxx/nw/1333.png" xoffset 0 yoffset 0 ifcrc 287024308 }
+
+
+// NW: Stripper Top
+tilefromtexture 3627 { file "xxx/nw/3627.png" xoffset 0 yoffset 0 ifcrc 42048688 }
+tilefromtexture 3628 { file "xxx/nw/3628.png" xoffset 0 yoffset 0 ifcrc 112695435 }
+tilefromtexture 3629 { file "xxx/nw/3629.png" xoffset 0 yoffset 0 ifcrc 841431794 }
+tilefromtexture 3630 { file "xxx/nw/3630.png" xoffset 0 yoffset 0 ifcrc 457007462 }
+tilefromtexture 3631 { file "xxx/nw/3631.png" xoffset 0 yoffset 0 ifcrc -1584765530 }
+
+
+// NW: Chained Stripper
+tilefromtexture 3637 { file "xxx/nw/3637.png" xoffset 0 yoffset 0 ifcrc 527534282 }
+tilefromtexture 3638 { file "xxx/nw/3638.png" xoffset 0 yoffset 0 ifcrc 837493474 }
+tilefromtexture 3639 { file "xxx/nw/3639.png" xoffset 0 yoffset 0 ifcrc 809300114 }
+tilefromtexture 3640 { file "xxx/nw/3640.png" xoffset 0 yoffset 0 ifcrc 1485410748 }
+
+
+// NW: Drinking Elf
+tilefromtexture 3592 { file "xxx/nw/3592.png" xoffset 0 yoffset 0 ifcrc 1264407497 }
+tilefromtexture 3593 { file "xxx/nw/3593.png" xoffset 0 yoffset 0 ifcrc -2084125249 }
