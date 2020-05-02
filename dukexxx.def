@@ -138,6 +138,11 @@ tilefromtexture 4876 { file "xxx/4876.png" xoffset 4 yoffset 0 ifcrc -1751412654
 tilefromtexture 4945 { file "xxx/4945.png" xoffset 0 yoffset 0 ifcrc 1136241158 }
 tilefromtexture 4955 { file "xxx/4955.png" xoffset 0 yoffset 0 ifcrc -180382413 }
 
+// World Tour
+tilefromtexture 5753 { file "xxx/5753.png" xoffset 0 yoffset 0 ifcrc 428910102 }
+tilefromtexture 5755 { file "xxx/5755.png" xoffset 0 yoffset 0 ifcrc -750587661 }
+tilefromtexture 5758 { file "xxx/5758.png" xoffset 0 yoffset 0 ifcrc 1613051264 }
+
 
 // Carib: dancing woman
 tilefromtexture 1321 { file "xxx/vaca/1321.png" xoffset 0 yoffset 0 ifcrc -257992875 }
